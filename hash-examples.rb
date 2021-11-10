@@ -10,3 +10,9 @@ animal = {
   color: "brown",
   dangerous: false
 }
+
+customer = {
+  name: "Steve"
+  hometown: "Cumberland"
+  past_due: true
+  }
